@@ -1,4 +1,4 @@
-# Open the prompt.ipynb file and have fun!
+### Open the prompt.ipynb file and have fun!
 
 # **Independent Investigation**
 
