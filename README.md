@@ -19,7 +19,8 @@ For the coffee coupons, there was very little correlation between most of the de
 
 1. Younger people (age 26 and under) were the only age group to accept more coupons than not, and the group aged 50 had a significantly lower acceptance rate
 
-![image](https://github.com/SenorMega/CouponAcceptanceTrends/assets/161073693/dd514ae3-9c00-4848-83d9-3f16b19a4439)
+![image](https://github.com/SenorMega/CouponAcceptanceTrends/assets/161073693/0927306c-0f2c-4a0e-9806-eaae3dd5e483)
+
 
 3. Students and the unemployed were by far the most likely groups to accept the coupons
 4. Gender, Education, Marital Status, and Having Children had very little effect on whether people would accept coupons or not
