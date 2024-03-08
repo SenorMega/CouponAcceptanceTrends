@@ -1,4 +1,6 @@
-### Open the prompt.ipynb file and have fun!
+### Open the prompt.ipynb file and have fun! Here is a link: 
+https://github.com/SenorMega/CouponAcceptanceTrends/blob/main/prompt.ipynb
+
 
 # **Independent Investigation**
 
