@@ -18,8 +18,10 @@ I will investigate the group that received Coffee House coupons. Based on my exp
 For the coffee coupons, there was very little correlation between most of the demographic categories and whether or not they accepted the coupons. That said, there were several categories that stood out:
 
 1. Younger people (age 26 and under) were the only age group to accept more coupons than not, and the group aged 50 had a significantly lower acceptance rate
-2. Students and the unemployed were by far the most likely groups to accept the coupons
-3. Gender, Education, Marital Status, and Having Children had very little effect on whether people would accept coupons or not
+![image](https://github.com/SenorMega/CouponAcceptanceTrends/assets/161073693/dd514ae3-9c00-4848-83d9-3f16b19a4439)
+
+3. Students and the unemployed were by far the most likely groups to accept the coupons
+4. Gender, Education, Marital Status, and Having Children had very little effect on whether people would accept coupons or not
 
 ## Situational Data Breakdown
 
